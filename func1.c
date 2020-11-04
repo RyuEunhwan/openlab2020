@@ -9,4 +9,8 @@ void foo()
 void my_stable_function()
 {
   printf("my really stable function\n");
+
+void my_experiment_function()
+{
+   printf("experiment\n");
 }
