@@ -7,3 +7,7 @@ void foo()
 }
 
 
+void my_experiment_function()
+{
+   printf("experiment\n");
+}
